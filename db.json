@@ -39,6 +39,62 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "mukombero",
+      "restaurant": "nawanju",
+      "image": "https://weeatatlast.com/wp-content/uploads/2021/08/east-african-kenyan-pilau-rice-500x375.jpg",
+      "rating": "10",
+      "comment": "amazing",
+      "id": 6
+    },
+    {
+      "name": "chai",
+      "restaurant": "kwa mukami",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Masala_Chai.JPG/800px-Masala_Chai.JPG",
+      "rating": "-5",
+      "comment": "dont try",
+      "id": 7
+    },
+    {
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": "",
+      "id": 8
+    },
+    {
+      "name": "mashmallow",
+      "restaurant": "Kwa Jose",
+      "image": "https://thumbs.dreamstime.com/b/pink-heart-shape-mashmellow-wood-wooden-background-48433324.jpg",
+      "rating": "8",
+      "comment": "gorgeous",
+      "id": 9
+    },
+    {
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "restaurant": "",
+      "image": "",
+      "rating": "",
+      "comment": "",
+      "id": 12
     }
   ]
 }
